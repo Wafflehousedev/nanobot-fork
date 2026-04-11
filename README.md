@@ -2,6 +2,8 @@
 
 # Deploy and Host Nanobot - OpenClaw Alternative (Open Source ) on Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/nanobot-openclaw-alternative-open-source?referralCode=QXdhdr&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 🐈  [nanobot](https://github.com/HKUDS/nanobot) is an ultra-lightweight personal AI assistant inspired by [OpenClaw](https://railway.com/deploy/openclaw-prev-clawdbot-moltbot-self-host). It's positioned as an alternative to OpenClaw, offering a simpler setup with similar multi-provider support. This Railway template gets you up and running with a one-click deployment.
 
 ## Architecture
